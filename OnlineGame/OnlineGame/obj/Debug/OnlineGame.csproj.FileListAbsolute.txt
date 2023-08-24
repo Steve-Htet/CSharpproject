@@ -1,0 +1,6 @@
+c:\users\gwt\documents\visual studio 2013\Projects\OnlineGame\OnlineGame\bin\Debug\OnlineGame.exe.config
+c:\users\gwt\documents\visual studio 2013\Projects\OnlineGame\OnlineGame\obj\Debug\OnlineGame.csprojResolveAssemblyReference.cache
+c:\users\gwt\documents\visual studio 2013\Projects\OnlineGame\OnlineGame\bin\Debug\OnlineGame.exe
+c:\users\gwt\documents\visual studio 2013\Projects\OnlineGame\OnlineGame\bin\Debug\OnlineGame.pdb
+c:\users\gwt\documents\visual studio 2013\Projects\OnlineGame\OnlineGame\obj\Debug\OnlineGame.exe
+c:\users\gwt\documents\visual studio 2013\Projects\OnlineGame\OnlineGame\obj\Debug\OnlineGame.pdb
